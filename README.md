@@ -24,5 +24,4 @@ Disclaimer
 Please be aware that Sidai Oleng Travel Agency is entirely fictional, and the website is created for educational and demonstration purposes only. Any resemblance to real travel agencies or destinations is purely coincidental.
 
 Contributions
-Feel free to contribute to this project by suggesting improvements or enhancements. You can submit your ideas through the GitHub repository linked below.
->>>>>>> 93416fa8d78dcc260fa070a854cdde8c1e2ea47f
+Feel free to contribute to this project by suggesting improvements or enhancements.
